@@ -4,9 +4,7 @@
 
 
 
-## Within 24 hours⏰ #BAB_GDSC #Business_Analysis_Hackathon 🎯
-## We utilized data from the Bayan platform and financial market data (trading), specifically from the Saudi stock market since 2001, and reached a fantastic result.
-## Thank you to my team for this tremendous work. 🙏🏻🤩
+# Within 24 hours⏰ #BAB_GDSC #Business_Analysis_Hackathon 🎯 We utilized data from the Bayan platform and financial market data (trading), specifically from the Saudi stock market since 2001, and reached a fantastic result. Thank you to my team for this tremendous work. 🙏🏻🤩
 
 
 # Team members 🎖️: 
